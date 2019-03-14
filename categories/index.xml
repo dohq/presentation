@@ -2,11 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>/categories/</link>
+    <link>https://dohq.github.io/presentation/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 R.Maejima</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dohq.github.io/presentation/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
